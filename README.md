@@ -36,12 +36,6 @@ Currently focused on Backend Engineering, Web Development, Databases, and Data S
 
 ---
 
-### 🎯 Looking For
-
-Software Engineering, Backend Development, and Full-Stack Development Internship Opportunities.
-
----
-
 ### 📫 Contact
 
 Email: [bodikechaithali@gmail.com](mailto:bodikechaithali@gmail.com)
