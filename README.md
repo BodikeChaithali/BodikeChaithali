@@ -59,10 +59,18 @@ Software Engineering • Backend Development • Full Stack Development
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BodikeChaithali&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BodikeChaithali&theme=github-dark"/>
-</p>
+## 📈 GitHub Statistics
+
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=BodikeChaithali&show_icons=true&theme=github_dark" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BodikeChaithali&theme=github-dark" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BodikeChaithali&theme=github-dark" />
